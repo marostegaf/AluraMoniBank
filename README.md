@@ -11,3 +11,7 @@
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+![image](https://github.com/marostegaf/AluraMoniBank/assets/103620713/b08bc15d-9903-4b2e-b421-85a5e870dfba)
+![image](https://github.com/marostegaf/AluraMoniBank/assets/103620713/f3575333-a814-43d5-83c8-e9d9ecba473a)
+![image](https://github.com/marostegaf/AluraMoniBank/assets/103620713/eef1705e-5f05-4e0a-a14b-931eaf5df3fa)
